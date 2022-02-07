@@ -16,7 +16,7 @@ export default function WidgetSm() {
                     <button className="widgetSmButton">
                         <Visibility className="widgetSmIcon"/>
                         Display
-                    </button>
+                    </button>   
                 </li>
                 <li className="widgetSmListItem">
                     <img src="https://cdn.pixabay.com/photo/2017/04/06/19/34/girl-2209147_960_720.jpg" alt="Jovem mulher" className="widgetSmImg" />
