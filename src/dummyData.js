@@ -101,3 +101,55 @@ export const userRows = [
   },
 
 ];
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 2,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 3,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 4,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 5,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 6,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 7,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+  {
+    id: 8,
+    name: 'Apple Airpods',
+    img: 'https://cdn.pixabay.com/photo/2021/02/13/03/30/airpods-6010254_960_720.jpg',
+    stock: '100', status: 'active', price: '$100.00'
+  },
+
+];
